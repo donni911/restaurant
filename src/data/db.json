@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "name": "Rodion",
+      "email": "rodion2001vo@gmail.com",
+      "password": "oooopsss",
+      "id": "d8031457-6c85-4783-9405-54d76a9910f4"
+    }
+  ],
+  "restaurant": [
+    {
+      "name": "Dsa",
+      "contact": "da",
+      "address": "dsad",
+      "id": "bdkIRvl"
+    }
+  ]
+}
